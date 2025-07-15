@@ -6,26 +6,26 @@ This repository contains the solution to the Linux Basics Assignment, covering e
 
 --> Linux_Basics_Assignment.docx — The main solution file with:
 
-    * Commands used
+   * Commands used
 
-    * Explanations
+   * Explanations
 
-    * Screenshot placeholders
+   * Screenshot placeholders
 
-screenshots/ — Folder containing terminal output screenshots for each task
+--> screenshots/ — Folder containing terminal output screenshots for each task
 
-Sample commands used in:
+--> Sample commands used in:
 
-File creation and renaming
+   * File creation and renaming
 
-Viewing file content (cat, head, tail)
+   * Viewing file content (cat, head, tail)
 
-Pattern searching (grep)
+   * Pattern searching (grep)
 
-Compression (zip, unzip)
+   * Compression (zip, unzip)
 
-File downloading (wget)
+   * File downloading (wget)
 
-File permissions (chmod)
+   * File permissions (chmod)
 
-Environment variables (export)
+   * Environment variables (export)
