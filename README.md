@@ -4,13 +4,13 @@ This repository contains the solution to the Linux Basics Assignment, covering e
 
 **Contents**
 
-. Linux_Basics_Assignment.docx — The main solution file with:
+--> Linux_Basics_Assignment.docx — The main solution file with:
 
-* Commands used
+    * Commands used
 
-* Explanations
+    * Explanations
 
-Screenshot placeholders
+    * Screenshot placeholders
 
 screenshots/ — Folder containing terminal output screenshots for each task
 
